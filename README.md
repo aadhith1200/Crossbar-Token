@@ -1,4 +1,4 @@
-# Crossbar-Token
+# Crossbar Token
 
 A ERC-20 token built from scratch in Solidity.<br/>Used React to build the Token Crowdsale website (Still in Progress).  
 Deployed in Ropsten Test Network.
